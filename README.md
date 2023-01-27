@@ -1,5 +1,6 @@
 # Letshop-Ecommerce-Website
 1.Clone the repository.
+<br>
 2.Create a virtual environment in python  
 ```bash 
 virtualenv -p python3 .
