@@ -1,1 +1,15 @@
 # Letshop-Ecommerce-Website
+1.Clone the repository.
+2.Create a virtual environment in python  
+```bash 
+virtualenv -p python3 .
+```
+3.Install requirements 
+```bash 
+pip install -r requirements.txt
+```
+4.Run Django server 
+```bash
+python manage.py runserver
+```
+5.Login with username gjboxer19122001@gmail.com password 123
